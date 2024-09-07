@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Adios:
+# Adios
 🔭 I’m currently in my third year of the B.Tech program at NIST University, Berhampur.<br>🤝 I’m looking for help with neural networks.<br>🌱 I’m currently learning about neural networks in machine learning.<br>⚡ My primary field of interest is machine learning.
 
 
