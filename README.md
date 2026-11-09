@@ -29,27 +29,21 @@
   </a>
 </p>
 
-<br>
-
 <!-- ==================== ABOUT ME ==================== -->
 
-<h2 align="center">
-  <img src="./imgs/title1.png" width="25" alt="About">
-  <em>About Me</em>
-</h2>
+<br>
 
-<img
-  src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"
-  width="250"
-  align="right"
-  alt="Anime GIF"
-/>
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
 
 <p>
   Hey there! <em><b>I'm Siba Prasad Sahu</b></em>, an aspiring AI/ML Engineer passionate about building intelligent solutions and exploring emerging technologies. I enjoy problem-solving and experimenting with Machine Learning, Deep Learning, Computer Vision, and Generative AI. I'm also interested in Backend Engineering and API Development, particularly using Go (Golang), and love building small, fun projects to turn ideas into practical applications.
 </p>
 
-<br clear="right"/>
+
+<br/>
 
 <p align="center">
   <img src="./imgs/img3.png" width="15" alt="Education">
@@ -62,7 +56,8 @@
   <em><b>Working as a Freelance AI/ML Developer</b></em>
 </p>
 
-<br>
+<br/>
+<br/>
 
 <!-- ==================== TECHNOLOGIES ==================== -->
 
@@ -91,48 +86,6 @@
 
 <br>
 
-<!-- ==================== GITHUB STATISTICS ==================== -->
-
-<h2 align="center">
-  <img src="./imgs/title3.png" width="25" alt="Statistics">
-  <em>Statistics</em>
-</h2>
-
 <div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Siba4442&show_icons=true&bg_color=1F242C&title_color=C9D1D9&icon_color=3B82F6&text_color=C9D1D9&border_color=3B82F6"
-    height="180"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Siba4442&theme=dark&background=1F242C&hide_border=false&sideNums=C9D1D9&currStreakNum=C9D1D9&fire=3B82F6&ring=3B82F6&stroke=3B82F6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9"
-    height="180"
-    alt="GitHub Streak"
-  />
-
-  <br><br>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siba4442&layout=compact&bg_color=1F242C&title_color=C9D1D9&text_color=C9D1D9&border_color=3B82F6"
-    height="180"
-    alt="Top Languages"
-  />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
 </div>
-
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-
-<h2 align="center">
-  <img src="./imgs/title3.png" width="25" alt="Activity">
-  <em>Activity Graph</em>
-</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Siba4442&bg_color=1F242C&color=C9D1D9&line=3B82F6&point=58A6FF&area=true&hide_border=false&radius=16"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>
