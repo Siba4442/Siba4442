@@ -2,7 +2,7 @@
 <!-- ==================== HEADER ==================== -->
 
 <p align="center">
-  <img src="./imgs/git/header-gh.gif" alt="Profile Banner" width="100%">
+  <img src="./imgs/git/header-gh.gif" alt="Profile Banner" width="60%">
 </p>
 
 <!-- ==================== SOCIAL LINKS ==================== -->
