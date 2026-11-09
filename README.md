@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://x.com/anyparxia404" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 
   <a href="https://huggingface.co/siba4442" target="_blank">
@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
