@@ -39,7 +39,11 @@
 <br/>
 
 <p>
-  Hey there! <em><b>I'm Siba Prasad Sahu</b></em>, an aspiring AI/ML Engineer passionate about building intelligent solutions and exploring emerging technologies. I enjoy problem-solving and experimenting with Machine Learning, Deep Learning, Computer Vision, and Generative AI. I'm also interested in Backend Engineering and API Development, particularly using Go (Golang), and love building small, fun projects to turn ideas into practical applications.
+  Hey there! <em><b>I'm Siba Prasad Sahu</b></em>. I'm an aspiring AI/ML engineer who loves turning ideas into working models. Most of my time goes to Machine Learning, Deep Learning, Computer Vision, and Generative AI, mostly figuring out why my model is confidently wrong.
+</p>
+
+<p>
+  When I'm not training models, I'm building backend services and APIs in Go. My favorite projects are small and a little ambitious, the kind that start as "wouldn't it be cool if..." and end with something actually running.
 </p>
 
 
@@ -87,5 +91,5 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer" width="100%"/>
 </div>
