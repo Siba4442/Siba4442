@@ -48,7 +48,7 @@
 <p align="center">
   <img src="./imgs/img3.png" width="15" alt="Education">
   &nbsp;
-  <em><b>Graduated in B.Tech (Information Technology) from NIST University, Berhampur</b></em>
+  <em><b>Graduated in B.Tech (Information Technology) from NIST University</b></em>
   <br>
 
   <img src="./imgs/img2.png" width="15" alt="Work">
