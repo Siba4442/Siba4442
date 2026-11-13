@@ -39,11 +39,7 @@
 <br/>
 
 <p>
-  Hey there! <em><b>I'm Siba Prasad Sahu</b></em>. I'm an aspiring AI/ML engineer who loves turning ideas into working models. Most of my time goes to Machine Learning, Deep Learning, Computer Vision, and Generative AI, mostly figuring out why my model is confidently wrong.
-</p>
-
-<p>
-  When I'm not training models, I'm building backend services and APIs in Go. My favorite projects are small and a little ambitious, the kind that start as "wouldn't it be cool if..." and end with something actually running.
+  Hey there! I’m <em><b>I'm Siba Prasad Sahu</b></em>, an AI/ML engineer who turns ideas into working models. I spend my days on Machine Learning, Deep Learning, Computer Vision, and Generative AI, usually figuring out why my model is confidently wrong. When I’m not training models, I’m building APIs in Go. My favorite projects start as “wouldn’t it be cool if...” and end with something actually running.
 </p>
 
 
